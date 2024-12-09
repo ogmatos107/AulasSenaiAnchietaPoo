@@ -6,7 +6,7 @@ public class Tarefa {
     String nome;
     boolean status;
 
-    public Tarefa(String nome,boolean status) {
+    public Tarefa(String nome, boolean status) {
         this.status = status;
         this.nome = nome;
     }
